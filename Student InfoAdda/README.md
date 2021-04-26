@@ -10,3 +10,7 @@ It is a project based on React.Js,Redux and Firebase. It works on the principles
 
 ![Home-Page-Student-InfoAdda](https://user-images.githubusercontent.com/53938611/116089941-fa684080-a6c0-11eb-8ec4-dfa79a8caccd.jpg)
 
+### Add Student
+
+![Add-Student](https://user-images.githubusercontent.com/53938611/116090376-6b0f5d00-a6c1-11eb-94e7-199ff6363bd2.jpg)
+
