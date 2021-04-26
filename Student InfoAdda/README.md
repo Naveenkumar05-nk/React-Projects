@@ -5,3 +5,8 @@ It is a project based on React.Js,Redux and Firebase. It works on the principles
 ### Login Page
 
 ![Login-Page-Student-InfoAdda](https://user-images.githubusercontent.com/53938611/116089643-b2e1b480-a6c0-11eb-92fc-1c3faf208541.jpg)
+
+### Home Page
+
+![Home-Page-Student-InfoAdda](https://user-images.githubusercontent.com/53938611/116089941-fa684080-a6c0-11eb-8ec4-dfa79a8caccd.jpg)
+
