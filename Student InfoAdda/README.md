@@ -14,3 +14,7 @@ It is a project based on React.Js,Redux and Firebase. It works on the principles
 
 ![Add-Student](https://user-images.githubusercontent.com/53938611/116090376-6b0f5d00-a6c1-11eb-94e7-199ff6363bd2.jpg)
 
+### Edit Student
+
+![Edit-Student](https://user-images.githubusercontent.com/53938611/116090567-a578fa00-a6c1-11eb-9ff6-7a0e8eba17e6.jpg)
+
